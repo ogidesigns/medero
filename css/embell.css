@@ -1,0 +1,23 @@
+body {font-family: 'Nunito', sans-serif; text-align: center; font-weight: 300;}
+#wrapper {width: 800px; margin: auto;}
+header{margin-top: 145px; margin-bottom: 90px;}
+div {padding: 120px 350px;}
+h1 {color:#6c2a6a; font-size: 36px;}
+h2{font-size: 30px;}
+header ul {width: 75%; margin: auto; font-size: 12px;}
+ul {-webkit-padding-start: 0px;}
+h6, header ul li {text-transform: uppercase; color: #3c3c3c;}
+ul li {list-style-type: none; display: inline-block;}
+header ul li {margin: 0px 5px; padding: 10px 20px;}
+#selected {border: 1px solid #3c3c3c; border-radius: 5px;}
+#purple, .btn {background-color: #6c2a6a; color: #fff;}
+#white {color: #3c3c3c; padding: 120px; 150px;}
+#white h3 {color: #676767; font-weight: 300;}
+#white ul li {background-color: #6c2a6a; color: #fff; padding: 20px;}
+p {font-weight: 300; font-weight: 12px;}
+.fourth {width: 20%; display: inline-block; padding: 0px; margin: 50px 0px 0px 0px;}
+.btn {padding: 10px 20px; border-radius: 5px; border: none; font-size: 16px;}
+footer {background-color: #1b1b1b; color: #43433c; padding: 120px;}
+footer ul {margin-top: 50px;}
+footer .fa {background-color: #6c2a6a; color: #fff; border-radius: 30px; width: 48px; height: 48px; line-height: 48px; margin: 0px 5px;}
+footer p {display: block; border-top: 1px solid #43433c; padding-top: 30px;}
